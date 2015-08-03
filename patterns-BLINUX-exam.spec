@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-exam
 Version:        2.0
-Release:        3
+Release:        4
 Summary:        Meta package for pattern EXAM
 Group:          Metapackages
 License:        BSD-2-Clause
